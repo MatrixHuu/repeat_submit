@@ -16,7 +16,7 @@ import javax.servlet.Filter;
  * @version 1.0
  * @data 2023/6/15 10:45
  */
-@Configuration
+@Configuration  
 public class WebConfig implements WebMvcConfigurer {
 
     @Autowired
